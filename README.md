@@ -19,7 +19,6 @@ I’m not one for flashy buzzwords. I believe in getting my hands dirty, learnin
 
 > **Fun Fact:** Some of my best ideas have come from late-night debugging sessions and countless cups of coffee(even though I'm banned from drinking too much).
 
-
 ---
 
 ## 🛠️ My Toolbox
@@ -45,3 +44,13 @@ Since static just isn’t my style, here’s another little animation to keep th
 ![Keep Coding](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 *Every line of code tells a story. Thanks for reading mine!*
+
+---
+
+## 🏆 My Achievements
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=nishantkluhera&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+## 📊 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/nishantkluhera/count.svg)
