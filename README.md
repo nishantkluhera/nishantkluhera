@@ -1,6 +1,6 @@
 # Hey, I’m Nishant Luhera 👋
 
-I'm a passionate coder who loves solving problems and contributing to public projects. My GitHub is my creative hub—where I build projects, fix issues, and occasionally have a little fun with code.
+I'm a passionate coder who loves solving problems and contributing to public projects even if I'm a bot slow. My GitHub is my creative hub—where I build projects, fix issues, and occasionally have a little fun with code.
 
 ---
 
@@ -13,7 +13,7 @@ I’m not one for flashy buzzwords. I believe in getting my hands dirty, learnin
 
 ---
 
-## 🚀 Current Venture: CodeQuorum
+## 🚀 Current Side Quest: CodeQuorum
 
 *CodeQuorum* is one of my brainchilds—a space where creativity meets collaboration. Imagine a coding environment that adapts to your team's rhythm—I'm building that experience one commit at a time!
 
@@ -27,7 +27,7 @@ I’m not one for flashy buzzwords. I believe in getting my hands dirty, learnin
 I work with a variety of languages and tools, always on the lookout for the next challenge:
 - **Languages:** Python, JavaScript, C++, Rust and more
 - **Frameworks:** Experimenting with modern libraries to craft interactive experiences
-- **Philosophy:** Simplicity and clarity—if it works and is elegant, it's gold.
+- **Philosophy:** Simplicity and clarity—if it works and is elegant, it's gold(until my perfectionism kicks in).
 
 ---
 
