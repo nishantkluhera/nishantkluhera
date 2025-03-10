@@ -47,13 +47,11 @@ Since static just isn’t my style, here’s another little animation to keep th
 
 ---
 
-## 🏆 My Achievements
+## 📊 GitHub Stats
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=nishantkluhera&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔎 My Assigned Issues
-
-[![Assigned Issues](https://myreadme.vercel.app/api/embed/nishantkluhera?panels=assignedissues,userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/nishantkluhera)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantkluhera&show_icons=true&theme=radical)
 
 
 ## 📊 Visitor Count
