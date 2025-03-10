@@ -51,11 +51,9 @@ Since static just isn’t my style, here’s another little animation to keep th
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=nishantkluhera&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔎 Assigned Issues
+## 🔎 My Assigned Issues
 
-Here's a snapshot of the public repo issues currently assigned to me:
-
-![Assigned Issues](https://gh-assigned-issues.vercel.app/api?username=nishantkluhera&theme=onedark)
+[![Assigned Issues](https://myreadme.vercel.app/api/embed/nishantkluhera?panels=assignedissues,userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/nishantkluhera)
 
 
 ## 📊 Visitor Count
