@@ -51,8 +51,10 @@ Since static just isn’t my style, here’s another little animation to keep th
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=nishantkluhera&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantkluhera&show_icons=true&theme=radical)
 
+## 🎧 Spotify Now Playing
+
+[![Spotify Now Playing](https://spotify-now-playing.vercel.app/api/spotify?user=nishantkluhera&theme=default)](https://open.spotify.com/user/nishantkluhera)
 
 ## 📊 Visitor Count
 
