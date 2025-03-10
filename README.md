@@ -1,10 +1,14 @@
-# Hi, I'm Nishant
+# Hi, I'm Nishant 👋
+
+![Coding in Action](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
 I'm a developer who’s been tinkering with code for as long as I can remember. My GitHub is where I experiment, build projects that matter to me, and sometimes just fiddle around to see what I can create.
 
+---
+
 ## A Bit About Me
 
-I believe that coding is less about following trends and more about solving real problems in my own unique way. I try to keep things simple, honest, and practical. Every bug I fix or feature I add is a small victory and a learning experience rolled into one.
+I believe coding is about tackling real problems with a straightforward, hands-on approach. I value learning through trial and error and celebrating each small victory along the way.
 
 - **Portfolio:** [nishantkluhera.github.io](https://nishantkluhera.github.io/)
 - **Group Projects:** [projects506](https://github.com/projects506)
@@ -12,21 +16,34 @@ I believe that coding is less about following trends and more about solving real
 - **LinkedIn:** [in/nishantkluhera](https://www.linkedin.com/in/nishantkluhera)
 - **X (formerly Twitter):** [@nishantluhera](https://twitter.com/nishantluhera)
 
+---
+
 ## What I'm Working On
 
 ### CodeQuorum
-This project is close to my heart—a real-time collaborative code editor that I’m building one commit at a time. It’s a space where creativity meets practicality, and I'm excited to see where it goes.
+A project close to my heart—a real-time collaborative code editor that I'm building commit by commit. It’s my playground for exploring how teamwork and code can blend to create something extraordinary.
+
+---
 
 ## My Coding Journey
 
-I’m not a wizard with magic solutions—just someone who loves the challenge of breaking problems down and finding a way through. I value simplicity, clarity, and genuine collaboration over flashy but empty trends.
+I’m not here to follow trends. I’m here to solve problems in my own unique way—whether that means debugging an elusive issue at 3 AM or celebrating the moment a new feature finally works. I value:
+- **Practicality:** Keeping things simple and effective.
+- **Authenticity:** Being true to the way I learn and build.
+- **Community:** Sharing and collaborating with others who love coding as much as I do.
 
-## A Glimpse of My Work
+---
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantkluhera&show_icons=true&theme=radical)
+## A Touch of Animation
+
+Since static just isn’t my style, here’s another little animation to keep the energy up:
+
+![Keep Coding](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+
+---
 
 ## Let's Connect
 
-If you’re interested in talking shop, need a hand on a project, or just want to chat about coding (or life in general), feel free to reach out via LinkedIn or Twitter. I’m always up for a good conversation.
+If you're up for a chat—about code, ideas, or just life—feel free to reach out. I'm always excited to connect with fellow developers and curious minds.
 
-Thanks for dropping by!
+Thanks for stopping by!
