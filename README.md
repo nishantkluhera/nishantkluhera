@@ -1,6 +1,6 @@
 # Hey, I’m Nishant Luhera 👋
 
-I'm a passionate coder who loves solving problems and contributing to public projects even if I'm a bot slow. My GitHub is my creative hub—where I build projects, fix issues, and occasionally have a little fun with code.
+I'm a passionate programmer ? Coder ? who loves solving problems and contributing to public projects even if I'm a bot slow. My GitHub is my creative hub—where I build projects, fix issues, and occasionally have a little fun with code.
 
 ---
 
@@ -41,7 +41,7 @@ I love chatting about code, sharing ideas, and learning from fellow developers. 
 - **Twitter (X I guess😩):** [@nishantluhera](https://twitter.com/nishantluhera)
 
 ---
-
+Since static just isn’t my style, here’s another little animation to keep the energy up:
 ![Keep Coding](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 *Every line of code tells a story. Thanks for reading mine!*
