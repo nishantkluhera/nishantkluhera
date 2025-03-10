@@ -38,7 +38,7 @@ I love chatting about code, sharing ideas, and learning from fellow developers. 
 - **Group Projects:** [projects506](https://github.com/projects506)
 - **ORCID:** [0009-0007-0883-3022](https://orcid.org/0009-0007-0883-3022)
 - **LinkedIn:** [in/nishantkluhera](https://www.linkedin.com/in/nishantkluhera)
-- **X (formerly Twitter):** [@nishantluhera](https://twitter.com/nishantluhera)
+- **Twitter (X I guess😩):** [@nishantluhera](https://twitter.com/nishantluhera)
 
 ---
 
