@@ -6,18 +6,18 @@ I'm a passionate coder who loves solving problems and contributing to public pro
 
 ## 🌟 About Me
 
-I’m not one for flashy buzzwords. I believe in getting my hands dirty, learning from every bug, and celebrating the small wins:
+I’m not one for flashy buzzwords. I believe in getting my hands dirty, learning from every bug, and celebrating the small wins even if a bit slow:
 - **Real Projects, Real Passion:** I’m working on *CodeQuorum* – a real-time collaborative code editor that's evolving one commit at a time.
 - **Continuous Experimentation:** From exploring new frameworks to refactoring old code, I'm always learning.
-- **Community Focus:** Contributing to open-source projects and solving issues in public repositories fuels my growth.
+- **Community Focus:** Contributing to open-source projects and solving issues & bounties in public repositories fuels my growth.
 
 ---
 
 ## 🚀 Current Venture: CodeQuorum
 
-*CodeQuorum* is my brainchild—a space where creativity meets collaboration. Imagine a coding environment that adapts to your team's rhythm—I'm building that experience one commit at a time!
+*CodeQuorum* is one of my brainchilds—a space where creativity meets collaboration. Imagine a coding environment that adapts to your team's rhythm—I'm building that experience one commit at a time!
 
-> **Fun Fact:** Some of my best ideas have come from late-night debugging sessions and countless cups of coffee(even though I'm banned fro drinking too much).
+> **Fun Fact:** Some of my best ideas have come from late-night debugging sessions and countless cups of coffee(even though I'm banned from drinking too much).
 
 
 ---
