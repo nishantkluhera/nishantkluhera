@@ -1,6 +1,6 @@
 # Hey, I’m Nishant Luhera 👋
 
-I'm a passionate programmer ? Coder ? who loves solving problems and contributing to public projects even if I'm a bot slow. My GitHub is my creative hub—where I build projects, fix issues, and occasionally have a little fun with code.
+I'm a passionate programmer ? Coder ? I build build with code - who loves solving problems and contributing to public projects even if I'm a bot slow. My GitHub is my creative hub—where I build projects, fix issues, and occasionally have a little fun with code.
 
 ---
 
