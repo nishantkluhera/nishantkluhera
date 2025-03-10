@@ -1,15 +1,50 @@
-# Hi, I'm Nishant 👋
+<!-- Animated header to set the mood -->
+![Code Vibes](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-![Coding in Action](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+# Hey, I’m Nishant Luhera 👋
 
-I'm a developer who’s been tinkering with code for as long as I can remember. My GitHub is where I experiment, build projects that matter to me, and sometimes just fiddle around to see what I can create.
+I’m a passionate coder who’s been in love with programming since I first typed “Hello, World!” on my clunky old computer. My GitHub is my playground—a place where I experiment, build quirky projects, and sometimes simply muse over the beauty of clean code.
 
 ---
 
-## A Bit About Me
+## 🌟 About Me
 
-I believe coding is about tackling real problems with a straightforward, hands-on approach. I value learning through trial and error and celebrating each small victory along the way.
+I’m not one for flashy buzzwords. I believe in getting my hands dirty, learning from every bug, and celebrating the small wins:
+- **Real Projects, Real Passion:** I’m working on *CodeQuorum* – a real-time collaborative code editor that’s evolving one commit at a time.
+- **Continuous Experimentation:** From exploring new frameworks to refactoring old code, I’m constantly learning.
+- **Sharing & Collaboration:** Open source is more than code—it’s community. I love connecting with like-minded developers.
 
+---
+
+## 🚀 Current Venture: CodeQuorum
+
+*CodeQuorum* is my current brainchild, a space where creativity meets collaboration. Imagine a coding environment that adapts to your team’s rhythm—I'm making that happen!
+
+> **Fun Fact:** Some of my best ideas have sprung from late-night debugging sessions and coffee-fueled experiments.
+
+---
+
+## 💰 Bounties & Active Issues
+
+I love the thrill of a bounty challenge—it’s not just about the rewards, but also about the learning journey. Over time, I've successfully tackled bounty issues ranging from security patches to performance tweaks. Right now, I'm actively working on a bounty issue that’s pushing my problem-solving skills to the limit.  
+[Check out my current active issue →](#) *(Feel free to update the link with the current issue URL.)*
+
+Every bounty is an opportunity to solve real-world challenges, sharpen my skills, and give back to the community.
+
+---
+
+## 🛠️ My Toolbox
+
+I work with a variety of languages and tools, always on the lookout for that next cool feature or efficient workflow:
+- **Languages:** JavaScript, Python, and a few surprises
+- **Frameworks:** Experimenting with modern libraries to craft interactive experiences
+- **Philosophy:** Simplicity and clarity above all—if it works and is elegant, it’s gold.
+
+---
+
+## 📫 Let’s Connect
+
+I love chatting about code, sharing ideas, and learning new things. Feel free to reach out or just say hi:
 - **Portfolio:** [nishantkluhera.github.io](https://nishantkluhera.github.io/)
 - **Group Projects:** [projects506](https://github.com/projects506)
 - **ORCID:** [0009-0007-0883-3022](https://orcid.org/0009-0007-0883-3022)
@@ -18,32 +53,7 @@ I believe coding is about tackling real problems with a straightforward, hands-o
 
 ---
 
-## What I'm Working On
-
-### CodeQuorum
-A project close to my heart—a real-time collaborative code editor that I'm building commit by commit. It’s my playground for exploring how teamwork and code can blend to create something extraordinary.
-
----
-
-## My Coding Journey
-
-I’m not here to follow trends. I’m here to solve problems in my own unique way—whether that means debugging an elusive issue at 3 AM or celebrating the moment a new feature finally works. I value:
-- **Practicality:** Keeping things simple and effective.
-- **Authenticity:** Being true to the way I learn and build.
-- **Community:** Sharing and collaborating with others who love coding as much as I do.
-
----
-
-## A Touch of Animation
-
-Since static just isn’t my style, here’s another little animation to keep the energy up:
-
+<!-- A playful animated footer -->
 ![Keep Coding](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
----
-
-## Let's Connect
-
-If you're up for a chat—about code, ideas, or just life—feel free to reach out. I'm always excited to connect with fellow developers and curious minds.
-
-Thanks for stopping by!
+*Every line of code tells a story. Thanks for reading mine!*
