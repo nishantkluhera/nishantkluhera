@@ -14,7 +14,7 @@ I’m not one for flashy buzzwords. I believe in getting my hands dirty, learnin
 ---
 
 ## 🚀 Current Side Quest: AtlasInfer
-> **Fun Fact:** Some of my best ideas have come from late-night debugging sessions and countless cups of coffee(even though I'm banned from drinking too much).
+> **Fun Fact:** Some of my best ideas have come from late-night gaming sessions and countless cups of coffee(even though I'm banned from drinking too much).
 
 ---
 
