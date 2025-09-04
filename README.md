@@ -1,6 +1,6 @@
 # Hey, I’m Nishant Luhera 👋
 
-I'm a passionate programmer ? Coder ? I build build with code - who loves solving problems and contributing to public projects even if I'm a bit slow. My GitHub is my creative hub—where I build projects that interest me, fix issues, and occasionally have a little fun with code.
+I'm a passionate programmer ? Coder ? I build build with code - love solving problems and contributing to public projects even if I'm a bit slow. My GitHub is my creative hub—where I build projects that interest me, fix issues, and occasionally have a little fun with code.
 
 ---
 
@@ -10,11 +10,6 @@ I’m not one for flashy buzzwords. I believe in getting my hands dirty, learnin
 - **Real Projects, Real Passion:** I’m working on *CodeQuorum* – a real-time collaborative code editor that's evolving one commit at a time.
 - **Continuous Experimentation:** From exploring new frameworks to refactoring old code, I'm always learning.
 - **Community Focus:** Contributing to open-source projects and solving issues & bounties in public repositories fuels my growth.
-
----
-
-## 🚀 Current Side Quest: AtlasInfer
-> **Fun Fact:** Some of my best ideas have come from late-night gaming sessions and countless cups of coffee(even though I'm banned from drinking too much).
 
 ---
 
